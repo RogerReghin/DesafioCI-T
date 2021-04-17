@@ -27,7 +27,7 @@ Orientações:
 Exemplo de Massa de dados:
 
 Janela de execução: 2019-11-10 09:00:00 até 2019-11-11 12:00:00
-
+```
 [
     {
         "ID": 1,
@@ -48,11 +48,11 @@ Janela de execução: 2019-11-10 09:00:00 até 2019-11-11 12:00:00
         "Tempo estimado": 6 horas,
     },
 ]
-
+```
 Output esperado
-
+```
 [
     [1, 3],
     [2]
 ]
-
+```
